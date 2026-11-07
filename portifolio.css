@@ -1,0 +1,129 @@
+.banner img{
+    width: 55pt;
+    padding-top: 20pt;
+    padding-bottom: 10pt;
+    padding-left: 48.2%;
+    padding-right: 48.2%;
+    background-color: #4f4e4e;
+    margin: -15pt;
+}
+
+body {
+    background-color: #e6e6e6;
+}
+
+.botoes {
+    background-color: black;
+    margin-top: 12pt;
+    margin-left: -6pt;
+    margin-right: -6pt;
+    font-size: 30px;
+}
+
+#inicio {
+    background-color: black;
+    text-decoration: none;
+    margin-left: 35%;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#inicio:hover {
+    background-color: rgb(178, 34, 34);
+    color: rgb(0, 0, 0) !important;
+}
+
+#inicio:visited {
+    color: rgb(178, 34, 34);
+}
+
+#curriculo {
+    background-color: black;
+    text-decoration: none;
+    margin-left: 30pt;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#curriculo:hover {
+    background-color: rgb(178, 34, 34);
+    color: black !important;
+}
+
+#curriculo:visited {
+    color: rgb(178, 34, 34);
+}
+
+#portifolio {
+    background-color: black;
+    text-decoration: none;
+    border-right: 2px black;
+    margin-left: 30pt;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#portifolio:hover {
+    background-color: rgb(178, 34, 34);
+    color: black !important;
+}
+
+#portifolio:visited {
+    color: rgb(178, 34, 34);
+}
+
+.portifolio {
+    background-color: #bab9b9;
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 25px;
+    border: 3px solid #b22222;
+    border-radius: 12px;
+    overflow: auto;
+}
+
+.portifolio h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #222;
+}
+
+.portifolio img {
+    width: 230px;
+    height: 270px;
+    border: 3px solid #b22222;
+    border-radius: 10px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.rodape {
+    background-color: #4f4e4e;
+    text-align: center;
+    color: black;
+    padding-top: 2%;
+    padding-bottom: 10pt;
+    margin-left: -0.8%;
+    margin-right: -0.8%;
+}
+
+#txt1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#txt2 {
+    font-size: 12px;
+}
+
+.rodape img {
+    width: 35px;
+}
+
+.rodape-final {
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid #b22222;
+    color: black;
+}
